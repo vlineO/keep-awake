@@ -1,0 +1,13 @@
+# Temp files
+*.tmp
+*.log
+~$*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
